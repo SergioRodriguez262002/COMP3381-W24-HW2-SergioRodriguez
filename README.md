@@ -1,1 +1,1 @@
-# COMP3381-W24-HW2-SergioRodriguez
+Sergio Rodriguez
